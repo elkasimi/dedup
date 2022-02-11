@@ -1,0 +1,1 @@
+/usr/local/bin/x86_64-apple-darwin21-g++-11 -Wall -pipe -O2 -march=native -g --std=c++17 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/dedup.dir/main.cc.o -o dedup   -L/usr/local/opt/openssl/lib  -Wl,-rpath,/usr/local/opt/openssl/lib -lssl -lcrypto 

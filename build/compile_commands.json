@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/mamay/Github/dedup/build",
+  "command": "/usr/local/bin/x86_64-apple-darwin21-g++-11  -I/usr/local/opt/openssl/include -Wall -pipe -O2 -march=native -g --std=c++17 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -o CMakeFiles/dedup.dir/main.cc.o -c /Users/mamay/Github/dedup/main.cc",
+  "file": "/Users/mamay/Github/dedup/main.cc"
+}
+]
